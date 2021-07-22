@@ -1,0 +1,20 @@
+.card{
+    display: inline-block;
+    background-color:#181616; ;
+    width: 8cm;
+    height: 8cm;
+    margin-left:2.1cm;
+    outline: none;
+    outline: #181616;;
+    
+    margin-top: 1cm;
+}
+.card img{
+    background:#181616; ;   
+    justify-content: center;
+}
+
+.card-body{
+    background: #181616;;
+}
+
